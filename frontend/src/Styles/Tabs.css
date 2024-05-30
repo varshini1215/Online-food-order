@@ -1,0 +1,28 @@
+.heading{
+    color:darkblue;
+    font-weight: bolder;
+}
+.subheading{
+    color: black;  
+}
+.content{
+    color:rgba(128, 0, 128, 0.948);
+    font-weight: 800;
+    font-size: 20px;
+}
+
+/* order button */
+.order{
+    background-color: black;
+    padding: 10px;
+    width: 280px;
+    font-size: 25px;
+    color: white;
+    box-shadow: 4px 6px 5px 4px gray;
+    border-radius: 15px;
+    float: right;
+}
+.order:hover{
+    transform: scale(1.1);
+    background-color: red;
+}

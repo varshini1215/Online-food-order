@@ -1,0 +1,126 @@
+body{
+  font-family: 'Times New Roman';
+}
+h3{
+  font-weight: bold;
+  padding-top:20px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+.padd
+{
+ color:rgb(83, 80, 80);
+}
+.heading{
+  /* margin-left: 115px; */
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;   
+}
+/* .logofil
+{
+  position:absolute;
+  top:50px; 
+  right:47%;
+  background-color:white;
+  border-radius: 50%;
+  height:99px;
+  width:99px;
+  font-weight:600;
+  font-size:60px;
+  padding:5px;
+  margin:auto;
+  font-family:poppins;
+  font-stretch:normal;
+  line-height:99px;
+  letter-spacing:normal;
+  text-align:center;
+  margin-left:800px;
+} */
+.search
+{
+  height:60px;
+  width:100%;
+  text-align: center;
+  margin-top: 0px;
+  font-size:15px;
+  
+}
+.dropdown
+{
+  position:absolute;
+  top:160px;
+  /* left:60px; */
+}
+.topc
+{
+  height: 10px;
+  text-align: center
+}
+
+.icon{
+  text-indent: 20%;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='30' viewBox='0 0 25 25' fill-rule='evenodd'%3E%3Cpath d='M16.036 18.455l2.404-2.405 5.586 5.587-2.404 2.404zM8.5 2C12.1 2 15 4.9 15 8.5S12.1 15 8.5 15 2 12.1 2 8.5 4.9 2 8.5 2zm0-2C3.8 0 0 3.8 0 8.5S3.8 17 8.5 17 17 13.2 17 8.5 13.2 0 8.5 0zM15 16a1 1 0 1 1 2 0 1 1 0 1 1-2 0'%3E%3C/path%3E%3C/svg%3E") center / contain no-repeat;
+  background-repeat: no-repeat;
+  background-position:10%;
+  z-index: -1;
+}
+.desp{
+  width:240px;
+  height:120px;
+  
+}
+.pic{
+  width: 120px;
+  height: 120px;
+}
+.maindiv{
+  width:350px;
+  height:150px;
+  margin-right: 20px;
+}
+/* .s{
+  color:rgb(83, 80, 80);
+} */
+.but{
+  position: absolute;
+  top:30px;
+  right: 200px;
+  color:black;
+}
+.but1{
+  position:absolute;
+  top: 27px;
+  right: 50px; 
+}
+.sticky{
+  height:43px;
+}
+.logofil{
+  position:absolute;
+  top:33px; 
+  /* left:5px; */
+  background-color:white;
+  border-radius:20px;
+  height:30px;
+  width:30px;
+  text-align: center;
+  font-size: 20px;
+}
+.images{
+  position: relative;
+  height: 600px;
+  width: 100%;
+}
+.symbol{
+  position: absolute;
+  top:33px; 
+  /* left:5px; */
+  background-color:white;
+  border-radius:20px;
+  height:30px;
+  width:30px;
+  text-align: center;
+  font-size: 20px;
+}
+
