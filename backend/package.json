@@ -5,7 +5,7 @@
   "main": "day62.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon day62.js"
+    "start": "npx nodemon day62.js"
   },
   "author": "",
   "license": "ISC",
